@@ -16,3 +16,5 @@ npx tsx src/test.ts
 ```
 
 The Prisma schema maps PascalCase/camelCase application names to the existing PostgreSQL table and column names with `@@map` and `@map`.
+
+Sample terminal output from the CRUD test script is in [`TEST_OUTPUT.md`](TEST_OUTPUT.md).
